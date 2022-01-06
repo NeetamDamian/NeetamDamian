@@ -4,9 +4,8 @@ I'm a recent Statistics graduate who can you work with large amounts of data lik
 
 Skills: SQL, Python, Microsoft Excel, Tableau
 
-- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: nbdamien@gmail.com 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeetamDamian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/damian-neetam-280b7b151//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/damian_brite)  
 
