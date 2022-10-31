@@ -18,5 +18,5 @@ I'm a recent Statistics graduate who can you work with large amounts of data lik
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NeetamDamian)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/damian-neetam-280b7b151/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/damian_brite)  
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeetamDamian&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<h3 align="left">Languages and Tools:</h3>
+h3>
 
